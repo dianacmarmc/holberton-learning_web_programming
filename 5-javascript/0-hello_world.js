@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <script>
+    <script  type="text/javascript">
       console.log("Betty Holberton")
     </script>
   </body>
